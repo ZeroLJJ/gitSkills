@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 test 合并冲突
-=======
-test 合并冲突
->>>>>>> feature1
 
 branch
